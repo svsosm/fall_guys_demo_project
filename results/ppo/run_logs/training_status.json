@@ -1,0 +1,65 @@
+{
+    "OpponentAI": {
+        "checkpoints": [
+            {
+                "steps": 1555035,
+                "file_path": "results\\ppo\\OpponentAI\\OpponentAI-1555035.onnx",
+                "reward": 2.65,
+                "creation_time": 1621728129.3354065,
+                "auxillary_file_paths": [
+                    "results\\ppo\\OpponentAI\\OpponentAI-1555035.pt"
+                ]
+            },
+            {
+                "steps": 1999979,
+                "file_path": "results\\ppo\\OpponentAI\\OpponentAI-1999979.onnx",
+                "reward": 2.8607594936708862,
+                "creation_time": 1621728664.180114,
+                "auxillary_file_paths": [
+                    "results\\ppo\\OpponentAI\\OpponentAI-1999979.pt"
+                ]
+            },
+            {
+                "steps": 2499942,
+                "file_path": "results\\ppo\\OpponentAI\\OpponentAI-2499942.onnx",
+                "reward": 4.486486486486487,
+                "creation_time": 1621729211.8832483,
+                "auxillary_file_paths": [
+                    "results\\ppo\\OpponentAI\\OpponentAI-2499942.pt"
+                ]
+            },
+            {
+                "steps": 2999977,
+                "file_path": "results\\ppo\\OpponentAI\\OpponentAI-2999977.onnx",
+                "reward": 4.640625,
+                "creation_time": 1621729782.8431833,
+                "auxillary_file_paths": [
+                    "results\\ppo\\OpponentAI\\OpponentAI-2999977.pt"
+                ]
+            },
+            {
+                "steps": 3272989,
+                "file_path": "results\\ppo\\OpponentAI\\OpponentAI-3272989.onnx",
+                "reward": 3.8372093023255816,
+                "creation_time": 1621730088.3052428,
+                "auxillary_file_paths": [
+                    "results\\ppo\\OpponentAI\\OpponentAI-3272989.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3272989,
+            "file_path": "results\\ppo\\OpponentAI.onnx",
+            "reward": 3.8372093023255816,
+            "creation_time": 1621730088.3052428,
+            "auxillary_file_paths": [
+                "results\\ppo\\OpponentAI\\OpponentAI-3272989.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

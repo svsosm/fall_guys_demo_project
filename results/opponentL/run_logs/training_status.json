@@ -1,0 +1,65 @@
+{
+    "OpponentL": {
+        "checkpoints": [
+            {
+                "steps": 2999994,
+                "file_path": "results\\opponentL\\OpponentL\\OpponentL-2999994.onnx",
+                "reward": 5.033707865168539,
+                "creation_time": 1621794888.0860486,
+                "auxillary_file_paths": [
+                    "results\\opponentL\\OpponentL\\OpponentL-2999994.pt"
+                ]
+            },
+            {
+                "steps": 3096949,
+                "file_path": "results\\opponentL\\OpponentL\\OpponentL-3096949.onnx",
+                "reward": 4.421383647798742,
+                "creation_time": 1621795003.3329232,
+                "auxillary_file_paths": [
+                    "results\\opponentL\\OpponentL\\OpponentL-3096949.pt"
+                ]
+            },
+            {
+                "steps": 3134184,
+                "file_path": "results\\opponentL\\OpponentL\\OpponentL-3134184.onnx",
+                "reward": 0.9657534246575342,
+                "creation_time": 1621797836.0276675,
+                "auxillary_file_paths": [
+                    "results\\opponentL\\OpponentL\\OpponentL-3134184.pt"
+                ]
+            },
+            {
+                "steps": 3499939,
+                "file_path": "results\\opponentL\\OpponentL\\OpponentL-3499939.onnx",
+                "reward": 7.125,
+                "creation_time": 1621798471.7733681,
+                "auxillary_file_paths": [
+                    "results\\opponentL\\OpponentL\\OpponentL-3499939.pt"
+                ]
+            },
+            {
+                "steps": 3870278,
+                "file_path": "results\\opponentL\\OpponentL\\OpponentL-3870278.onnx",
+                "reward": 5.8578947368421055,
+                "creation_time": 1621798928.2361465,
+                "auxillary_file_paths": [
+                    "results\\opponentL\\OpponentL\\OpponentL-3870278.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3870278,
+            "file_path": "results\\opponentL\\OpponentL.onnx",
+            "reward": 5.8578947368421055,
+            "creation_time": 1621798928.2361465,
+            "auxillary_file_paths": [
+                "results\\opponentL\\OpponentL\\OpponentL-3870278.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
